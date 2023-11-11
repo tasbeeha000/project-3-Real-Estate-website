@@ -12,4 +12,4 @@
 ![o6](https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/cbf464d6-1a20-46d6-a931-9b5f1fa26eaf)
 ![o7](https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/beabf503-246f-483c-9c0b-881a72cfea6e)
 ![o8](https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/f144ec88-0afa-4b03-9a6e-0bf69350152e)
-![o9](https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/f35956da-caa0-4e34-a0fa-64c71b3bebe4)
+
