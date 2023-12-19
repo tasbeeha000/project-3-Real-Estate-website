@@ -11,7 +11,6 @@ https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/6d
 
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/38e463c1-2477-4c93-9ac2-484966a14566
 
-![o2](https://github.com/tasb
 
 ![o3](https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/35420be9-e784-48f3-814e-eacfb0a77dce)
 
