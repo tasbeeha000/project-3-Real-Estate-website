@@ -1,7 +1,23 @@
 
 
 <h1> Project Tilte</h1>
-<h3>Real-Estate-website</h3>
+<h2>Real-Estate-website</h2>
+
+<h2>Description</h2>
+            <p>Passionate about transforming real estate experiences, I've crafted a dynamic website using HTML, CSS,
+Bootstrap. Explore the seamless blend of functionality and aesthetics as you navigate through
+property listings and discover your dream home. It has Login and registration forms . Plus multiple pages like about secton</p>
+
+<h2>Feature</h2>
+<ul>
+            <li>Multipage landing website</li>
+            <li>Bootstrap used</li>
+            <li>Super responsive</li>
+            <li>Let you Login </li>
+            <li>Let you register with website</li>
+             <li>let you search for the  property</li>
+  
+        </ul>
 
 
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/8a2c7f6e-e3de-4966-b3f0-d3a7a586534f
