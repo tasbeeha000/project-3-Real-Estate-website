@@ -19,8 +19,9 @@ property listings and discover your dream home. It has Login and registration fo
 </ul>
 
 <h3>Screenshots And Videos</h3>
+
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/8a2c7f6e-e3de-4966-b3f0-d3a7a586534f
-<br>
+
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/37b3a23c-3292-44ef-86d4-568ddbe78457
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/6d9ffbb1-6737-4020-9e9d-19dc1c5db147
 https://github.com/tasbeeha000/project-3-Real-Estate-website/assets/137652796/38e463c1-2477-4c93-9ac2-484966a14566
